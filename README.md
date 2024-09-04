@@ -1,1 +1,1 @@
-# wrapError
+# go-errors-library
